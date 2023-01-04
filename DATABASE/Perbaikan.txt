@@ -1,0 +1,8 @@
+MyCoding.NET
+Berikut beberapa perbaikan yang sudah kita selesaikan pada versi ini:
+1. Penambahan Modul Agenda
+2. Perbaikan upload video dari local komputer dan youtube
+3. perbaikan input Single quotes (') or double quotes (") pada berita, video
+4. perbaikan button hapus pada video
+5. penambahan button hapus pada menu manajemen user
+6. Perbaikan pada halaman lihat detail video yang sebelumnya video tidak dapat tampil dengan baik

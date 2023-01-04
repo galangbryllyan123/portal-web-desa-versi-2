@@ -1,0 +1,184 @@
+[16-Jan-2018 05:25:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[16-Jan-2018 12:25:22 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/): Is a directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 20
+[16-Jan-2018 12:25:22 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/): Is a directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 21
+[16-Jan-2018 12:25:22 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/kecil_): No such file or directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 22
+[16-Jan-2018 05:25:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[16-Jan-2018 12:25:37 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/): Is a directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 20
+[16-Jan-2018 12:25:37 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/): Is a directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 21
+[16-Jan-2018 12:25:37 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/kecil_): No such file or directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 22
+[16-Jan-2018 05:27:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[16-Jan-2018 05:30:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[31-Jan-2018 04:42:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[06-Feb-2018 02:49:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[06-Feb-2018 09:49:07 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 14
+[06-Feb-2018 09:49:07 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 15
+[06-Feb-2018 09:49:07 Asia/Jakarta] PHP Notice:  Use of undefined constant tag_seo - assumed 'tag_seo' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 167
+[06-Feb-2018 09:49:07 Asia/Jakarta] PHP Notice:  Undefined variable: tagvid in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 200
+[06-Feb-2018 02:49:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[06-Feb-2018 09:49:28 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 14
+[06-Feb-2018 09:49:28 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 15
+[06-Feb-2018 09:49:28 Asia/Jakarta] PHP Notice:  Use of undefined constant tag_seo - assumed 'tag_seo' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 167
+[06-Feb-2018 09:49:28 Asia/Jakarta] PHP Notice:  Undefined variable: tagvid in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 200
+[06-Feb-2018 03:32:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[06-Feb-2018 10:32:29 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 14
+[06-Feb-2018 10:32:29 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 15
+[06-Feb-2018 10:32:29 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/): Is a directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 20
+[06-Feb-2018 10:32:29 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/kecil_): No such file or directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 22
+[06-Feb-2018 03:32:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[06-Feb-2018 10:32:32 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 14
+[06-Feb-2018 10:32:32 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 15
+[06-Feb-2018 03:38:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[06-Feb-2018 10:38:23 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 14
+[06-Feb-2018 10:38:23 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 15
+[06-Feb-2018 10:38:23 Asia/Jakarta] PHP Notice:  Use of undefined constant tag_seo - assumed 'tag_seo' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 38
+[06-Feb-2018 10:38:23 Asia/Jakarta] PHP Notice:  Undefined variable: tagvid in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 122
+[06-Feb-2018 10:38:23 Asia/Jakarta] PHP Notice:  Undefined variable: tag_seo in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 149
+[06-Feb-2018 03:46:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[06-Feb-2018 10:46:42 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 14
+[06-Feb-2018 10:46:42 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 15
+[06-Feb-2018 10:46:42 Asia/Jakarta] PHP Notice:  Use of undefined constant tag_seo - assumed 'tag_seo' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 167
+[06-Feb-2018 10:46:42 Asia/Jakarta] PHP Notice:  Undefined variable: tagvid in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 200
+[06-Feb-2018 03:57:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[06-Feb-2018 10:57:26 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 14
+[06-Feb-2018 10:57:26 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 15
+[06-Feb-2018 10:57:26 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 28
+[06-Feb-2018 10:57:26 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 30
+[06-Feb-2018 10:57:26 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 31
+[06-Feb-2018 10:57:26 Asia/Jakarta] PHP Notice:  Use of undefined constant tag_seo - assumed 'tag_seo' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 38
+[06-Feb-2018 10:57:26 Asia/Jakarta] PHP Notice:  Undefined variable: tagvid in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 145
+[06-Feb-2018 10:57:26 Asia/Jakarta] PHP Notice:  Undefined variable: tag_seo in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 149
+[06-Feb-2018 03:58:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[06-Feb-2018 10:58:13 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 14
+[06-Feb-2018 10:58:13 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 15
+[06-Feb-2018 10:58:13 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 28
+[06-Feb-2018 10:58:13 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 30
+[06-Feb-2018 10:58:13 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 31
+[06-Feb-2018 10:58:13 Asia/Jakarta] PHP Notice:  Use of undefined constant tag_seo - assumed 'tag_seo' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 38
+[06-Feb-2018 10:58:13 Asia/Jakarta] PHP Notice:  Undefined variable: tagvid in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 122
+[06-Feb-2018 10:58:13 Asia/Jakarta] PHP Notice:  Undefined variable: tag_seo in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 149
+[06-Feb-2018 04:05:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[06-Feb-2018 11:05:02 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 14
+[06-Feb-2018 11:05:02 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 15
+[06-Feb-2018 11:05:02 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 158
+[06-Feb-2018 11:05:02 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 160
+[06-Feb-2018 11:05:02 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 161
+[06-Feb-2018 11:05:02 Asia/Jakarta] PHP Notice:  Use of undefined constant tag_seo - assumed 'tag_seo' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 167
+[06-Feb-2018 11:05:02 Asia/Jakarta] PHP Notice:  Undefined variable: tagvid in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 200
+[06-Feb-2018 04:06:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[06-Feb-2018 11:06:20 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 14
+[06-Feb-2018 11:06:20 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 15
+[06-Feb-2018 11:06:20 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 28
+[06-Feb-2018 11:06:20 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 30
+[06-Feb-2018 11:06:20 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 31
+[06-Feb-2018 11:06:20 Asia/Jakarta] PHP Notice:  Use of undefined constant tag_seo - assumed 'tag_seo' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 38
+[06-Feb-2018 11:06:20 Asia/Jakarta] PHP Notice:  Undefined variable: tagvid in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 145
+[06-Feb-2018 11:06:20 Asia/Jakarta] PHP Notice:  Undefined variable: tag_seo in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 149
+[06-Feb-2018 04:07:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[06-Feb-2018 11:07:52 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 14
+[06-Feb-2018 11:07:52 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 15
+[06-Feb-2018 11:07:52 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 28
+[06-Feb-2018 11:07:52 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 30
+[06-Feb-2018 11:07:52 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 31
+[06-Feb-2018 11:07:52 Asia/Jakarta] PHP Notice:  Use of undefined constant tag_seo - assumed 'tag_seo' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 38
+[06-Feb-2018 11:07:52 Asia/Jakarta] PHP Notice:  Undefined variable: tagvid in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 122
+[06-Feb-2018 11:07:52 Asia/Jakarta] PHP Notice:  Undefined variable: tag_seo in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 149
+[06-Feb-2018 04:10:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[06-Feb-2018 11:10:33 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 14
+[06-Feb-2018 11:10:33 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 15
+[06-Feb-2018 11:10:33 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/): Is a directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 20
+[06-Feb-2018 11:10:33 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/kecil_): No such file or directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 22
+[06-Feb-2018 04:10:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[06-Feb-2018 11:10:36 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 14
+[06-Feb-2018 11:10:36 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 15
+[06-Feb-2018 11:10:36 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/): Is a directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 20
+[06-Feb-2018 11:10:36 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/): Is a directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 21
+[06-Feb-2018 11:10:36 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/kecil_): No such file or directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 22
+[06-Feb-2018 04:10:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[06-Feb-2018 11:10:38 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 14
+[06-Feb-2018 11:10:38 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 15
+[06-Feb-2018 11:10:38 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/): Is a directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 20
+[06-Feb-2018 11:10:38 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/kecil_): No such file or directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 22
+[06-Feb-2018 04:10:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[06-Feb-2018 11:10:40 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 14
+[06-Feb-2018 11:10:40 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 15
+[06-Feb-2018 11:10:40 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/): Is a directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 20
+[06-Feb-2018 11:10:40 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/): Is a directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 21
+[06-Feb-2018 11:10:40 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/kecil_): No such file or directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 22
+[06-Feb-2018 04:10:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[06-Feb-2018 11:10:42 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 14
+[06-Feb-2018 11:10:42 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 15
+[06-Feb-2018 11:10:42 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/): Is a directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 20
+[06-Feb-2018 11:10:42 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/kecil_): No such file or directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 22
+[06-Feb-2018 04:12:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[06-Feb-2018 11:12:19 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 14
+[06-Feb-2018 11:12:19 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 15
+[06-Feb-2018 11:12:19 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 28
+[06-Feb-2018 11:12:19 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 30
+[06-Feb-2018 11:12:19 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 31
+[06-Feb-2018 11:12:19 Asia/Jakarta] PHP Notice:  Use of undefined constant tag_seo - assumed 'tag_seo' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 38
+[06-Feb-2018 11:12:19 Asia/Jakarta] PHP Notice:  Use of undefined constant jdl_video - assumed 'jdl_video' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 137
+[06-Feb-2018 11:12:19 Asia/Jakarta] PHP Notice:  Undefined variable: tagvid in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 145
+[06-Feb-2018 11:12:19 Asia/Jakarta] PHP Notice:  Undefined variable: tag_seo in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 149
+[06-Feb-2018 04:13:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[06-Feb-2018 11:13:05 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 14
+[06-Feb-2018 11:13:05 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 15
+[06-Feb-2018 11:13:05 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 28
+[06-Feb-2018 11:13:05 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 30
+[06-Feb-2018 11:13:05 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 31
+[06-Feb-2018 11:13:05 Asia/Jakarta] PHP Notice:  Use of undefined constant tag_seo - assumed 'tag_seo' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 38
+[06-Feb-2018 11:13:05 Asia/Jakarta] PHP Notice:  Undefined variable: tagvid in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 122
+[06-Feb-2018 11:13:05 Asia/Jakarta] PHP Notice:  Undefined variable: tag_seo in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 149
+[06-Feb-2018 04:13:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[06-Feb-2018 11:13:58 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 14
+[06-Feb-2018 11:13:58 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 15
+[06-Feb-2018 11:13:58 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 28
+[06-Feb-2018 11:13:58 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 30
+[06-Feb-2018 11:13:58 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 31
+[06-Feb-2018 11:13:58 Asia/Jakarta] PHP Notice:  Use of undefined constant tag_seo - assumed 'tag_seo' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 38
+[06-Feb-2018 11:13:58 Asia/Jakarta] PHP Notice:  Undefined variable: tagvid in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 122
+[06-Feb-2018 11:13:58 Asia/Jakarta] PHP Notice:  Undefined variable: tag_seo in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 149
+[06-Feb-2018 04:14:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[06-Feb-2018 11:14:10 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 14
+[06-Feb-2018 11:14:10 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 15
+[06-Feb-2018 11:14:10 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 158
+[06-Feb-2018 11:14:10 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 160
+[06-Feb-2018 11:14:10 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 161
+[06-Feb-2018 11:14:10 Asia/Jakarta] PHP Notice:  Use of undefined constant tag_seo - assumed 'tag_seo' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 167
+[06-Feb-2018 11:14:10 Asia/Jakarta] PHP Notice:  Use of undefined constant jdl_video - assumed 'jdl_video' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 195
+[06-Feb-2018 11:14:10 Asia/Jakarta] PHP Notice:  Undefined variable: tagvid in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 200
+[06-Feb-2018 04:15:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[06-Feb-2018 11:15:09 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 14
+[06-Feb-2018 11:15:09 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 15
+[06-Feb-2018 11:15:09 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 158
+[06-Feb-2018 11:15:09 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 160
+[06-Feb-2018 11:15:09 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 161
+[06-Feb-2018 11:15:09 Asia/Jakarta] PHP Notice:  Use of undefined constant tag_seo - assumed 'tag_seo' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 167
+[06-Feb-2018 11:15:09 Asia/Jakarta] PHP Notice:  Use of undefined constant jdl_video - assumed 'jdl_video' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 195
+[06-Feb-2018 11:15:09 Asia/Jakarta] PHP Notice:  Undefined variable: tagvid in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 200
+[06-Feb-2018 04:15:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[06-Feb-2018 11:15:34 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 14
+[06-Feb-2018 11:15:34 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 15
+[06-Feb-2018 11:15:34 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/): Is a directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 20
+[06-Feb-2018 11:15:34 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/kecil_): No such file or directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 22
+[06-Feb-2018 04:15:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[06-Feb-2018 11:15:36 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 14
+[06-Feb-2018 11:15:36 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 15
+[06-Feb-2018 11:15:36 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/): Is a directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 20
+[06-Feb-2018 11:15:36 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/): Is a directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 21
+[06-Feb-2018 11:15:36 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/kecil_): No such file or directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 22
+[06-Feb-2018 04:35:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[06-Feb-2018 11:35:07 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 14
+[06-Feb-2018 11:35:07 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 15
+[06-Feb-2018 11:35:07 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 28
+[06-Feb-2018 11:35:07 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 30
+[06-Feb-2018 11:35:07 Asia/Jakarta] PHP Notice:  Undefined index: fupload in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 31
+[06-Feb-2018 11:35:07 Asia/Jakarta] PHP Notice:  Use of undefined constant tag_seo - assumed 'tag_seo' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 38
+[06-Feb-2018 11:35:07 Asia/Jakarta] PHP Notice:  Use of undefined constant jdl_video - assumed 'jdl_video' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 137
+[06-Feb-2018 11:35:07 Asia/Jakarta] PHP Notice:  Undefined variable: tagvid in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 145
+[06-Feb-2018 11:35:07 Asia/Jakarta] PHP Notice:  Undefined variable: tag_seo in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 149
+[06-Feb-2018 04:35:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phpmunet/desa.phpmu.net/config/koneksi.php on line 12
+[06-Feb-2018 11:35:14 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 14
+[06-Feb-2018 11:35:14 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 15
+[06-Feb-2018 11:35:14 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/): Is a directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 20
+[06-Feb-2018 11:35:14 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/): Is a directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 21
+[06-Feb-2018 11:35:14 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/kecil_): No such file or directory in /home/phpmunet/desa.phpmu.net/administrator/modul/mod_video/aksi_video.php on line 22
